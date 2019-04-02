@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeexevoeb.pwsafrica.org/sitemap.xml
